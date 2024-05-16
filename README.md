@@ -2,7 +2,7 @@
 
 >**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
 
-## Step 0: After cloning Repo
+## Step 0: After cloning Repo please clone main branch
 
 1- `npm i` 
 2- `npm run setup` 
